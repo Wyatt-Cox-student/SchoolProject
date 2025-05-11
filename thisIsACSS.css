@@ -54,12 +54,15 @@ main { padding-left: 1em;
   display: block; 
   padding-top: 0;
   padding-bottom: 0; }
-section { border: 2px solid #000000;
-  padding-left: 1em;
-  padding-right: 1em;}
+section { border: 1.5px solid #000000;
+  padding: 0;
+  margin-bottom: 1em;}
 section h3 { text-align: center;
   font-size: 1.5em; 
-  background-color: #c77306; }
+  background-color: #c77306;
+  margin: 0; 
+  padding: 0.5em;
+  border-bottom: 1px solid #000000;}
 section ul { padding-left: 2em;}
 section  li {color:#c77306}
 section a:link {color: rgb(129, 52, 201);}
@@ -102,7 +105,7 @@ td { text-align: center; }
     padding-right: 2em;}
     #flow {display: flex; 
     flex-direction: row;}
-    section { padding-right: 2em;
+    section ul { padding-right: 2em;
             padding-left: 2em; }
     input[type="submit"] { grid-column: 2 / 3; width: 9em;}
     form {  display: grid;
