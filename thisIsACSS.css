@@ -16,7 +16,8 @@ header a:hover { color: #90C7E3; }
 h1 {
     text-align: center;
     font-size: 1.5em; }
-h2 {  color: #c77306; 
+h2 {  font-size: 2em;
+  color: #c77306; 
   font-family: Georgia,  sans-serif; 
 text-indent: 1em;}
 h3 {    color: #c9ced3;
@@ -41,7 +42,7 @@ nav li { padding-top: 0.5em;
     border-bottom: 1px solid #c9ced3; }
 dt { color: #bb6c05;
     font-weight: bold; }
-p { font-size: .90em;
+p { font-size: 1.2em;
     text-indent: 2.3em;
     color: #ffffff;}
 footer {text-align: center;
