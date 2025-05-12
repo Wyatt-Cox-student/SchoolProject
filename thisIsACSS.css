@@ -55,8 +55,8 @@ main { padding-left: 1em;
   display: block; 
   padding-top: 0;
   padding-bottom: 0; }
-section { border: 1.5px solid #000000;
-  padding: 0;
+section {
+  padding: 1em;
   margin-bottom: 1em;}
 section h3 { text-align: center;
   font-size: 1.5em; 
