@@ -56,7 +56,7 @@ main { padding-left: 1em;
   padding-top: 0;
   padding-bottom: 0; }
 section {
-  padding: 1em;
+  padding: 0em;
   margin-bottom: 1em;}
 section h3 { text-align: left;
   font-size: 1.5em;
@@ -64,6 +64,7 @@ section h3 { text-align: left;
   padding-left: 1em;
   color: #c77306;
   }
+  img { padding-left: 2em;}
 section ul { padding-left: 2em;}
 section  li {color:#c77306}
 section a:link {color: rgb(129, 52, 201);}
@@ -87,10 +88,6 @@ td { text-align: center; }
 #pictureMain {height: 300px; 
   background-image: url(ZZZLaunchScreen.PNG);
   background-size: 100% 100%; }
-#gameActionButton {background-image: url(actionButtons.PNG);
-  background-size: 100% 100%;
-}
-
 
  /* Color codes */
 .electricblue { color: #00BFFF; }
